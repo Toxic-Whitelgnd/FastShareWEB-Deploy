@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FastShareWEB-Deploy/static/css/main.ec0bf090.css",
+    "main.js": "/FastShareWEB-Deploy/static/js/main.567ae21d.js",
+    "static/media/output-1.png": "/FastShareWEB-Deploy/static/media/output-1.8a4de837366e7fa4742a.png",
+    "static/media/output-2.png": "/FastShareWEB-Deploy/static/media/output-2.2fd5a664e66425b82361.png",
+    "static/media/output-3.png": "/FastShareWEB-Deploy/static/media/output-3.d7b9ea1628b79c42105e.png",
+    "index.html": "/FastShareWEB-Deploy/index.html",
+    "main.ec0bf090.css.map": "/FastShareWEB-Deploy/static/css/main.ec0bf090.css.map",
+    "main.567ae21d.js.map": "/FastShareWEB-Deploy/static/js/main.567ae21d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec0bf090.css",
+    "static/js/main.567ae21d.js"
+  ]
+}
